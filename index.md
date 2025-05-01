@@ -7,4 +7,7 @@ public class Object{
   int num;
   String nombre;
 }
-```
+``` 
+- [ ] Llamar a mama
+- [ ] Llamar a mi abuela
+- [ ] Sacar al perro
